@@ -10,5 +10,18 @@ body {
 
 div {
   width: 30%;
-  height: 400px;
+  height: 680px;
+}
+
+.main-header {
+  background-color: #a2b9bc;
+  color: rgb(248, 246, 246);
+}
+
+.menu-left {
+  background-color: #b2ad7f;
+}
+
+.menu-right {
+  background-color: #878f99;
 }/*# sourceMappingURL=styles.css.map */
